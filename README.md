@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F722F2&background=F6FF5818&center=true&width=435&lines=Projeto+Individual+-+05+(RESILA%2FSENAC))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F722F2&background=F6FF5818&center=true&width=510&height=51&lines=Projeto+Individual+-+05+(RESILIA%2FSENAC))](https://git.io/typing-svg)
 
 <h3> O Projeto consiste na ordenação alfabética de propriedades de CSS. <p> </h3>
  <h2>👩🏽‍💻 Sobre o código</h2>
